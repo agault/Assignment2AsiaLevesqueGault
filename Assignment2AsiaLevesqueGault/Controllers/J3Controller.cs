@@ -11,6 +11,9 @@ using System.Web.Http;
 ///         for loop for button 2 with if statements being the number of pushes
 ///         save the input into an array to output words.
 /// It would be the same for the other button.
+/// now we need to worry about the amount of time.
+/// so using a "second" as a cut off between loops. 
+/// so if you pause a second it exsits the loop.
 
 /// </summary>
 namespace Assignment2AsiaLevesqueGault.Controllers
